@@ -1,1 +1,3 @@
-# Open-Vocabulary-RSIS
+# Open Vocabulary
+
+This repository contains the code used for 
